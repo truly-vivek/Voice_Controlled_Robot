@@ -1,15 +1,15 @@
-Voice Controlled Robot 
-Components Required:
- Arduino UNO Board
- Arduino USB Cable
- Breadboard
- HC-05 Bluetooth Module
- L293D Motor Driver Module
- Resistors:1K (Brown, Black, Red) & 2.2K Ohm (Red, Red, Red)
- Robotics Kit Part: Robo Chasis, 2 DC Motor, Clamps, Screw Sets, Screw Driver, Nut 
-Driver, 2 Wheels.
- Jumper Wires M-M & M-F.
-Steps to Follow:
+# Voice Controlled Robot 
+### Components Required:
+  - Arduino UNO Board
+  - Arduino USB Cable
+  - Breadboard
+  - HC-05 Bluetooth Module
+  - L293D Motor Driver Module
+  - Resistors:1K (Brown, Black, Red) & 2.2K Ohm (Red, Red, Red)
+  - Robotics Kit Part: Robo Chasis, 2 DC Motor, Clamps, Screw Sets, Screw Driver, Nut 
+    Driver, 2 Wheels.
+  - Jumper Wires M-M & M-F.
+### Steps to Follow:
 1. Please assemble the Robot as instructed by Instructor.
 2. Please follow the same Steps from Step 8 to Step 18 of Project 7- Line Follower 
 Robot.
