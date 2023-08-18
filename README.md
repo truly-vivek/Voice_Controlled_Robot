@@ -21,3 +21,5 @@ Video -> [Click](https://www.linkedin.com/posts/vivekreddykesavarapu_arduino-ard
 8. Search for your Bluetooth Device HC-05-(Group No). Once Connected Red Led on Bluetooth module will blink once per second instead of fast blinking.
 9. Then control the devices from your Voice Commands on AMR_Voice App.
 10. Voice Commands to be used: forward, backward, left, right, stop.
+
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7052732574581854209" height="1411" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
