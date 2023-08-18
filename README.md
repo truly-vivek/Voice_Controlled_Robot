@@ -11,22 +11,13 @@ Video -> [Click](https://www.linkedin.com/posts/vivekreddykesavarapu_arduino-ard
     Driver, 2 Wheels.
   - Jumper Wires M-M & M-F.
 ### Steps to Follow:
-1. Please assemble the Robot as instructed by Instructor.
-2. Please follow the same Steps from Step 8 to Step 18 of Project 7- Line Follower 
-Robot.
-3. Please follow the same Steps from Step 11 to Step 16 of Project 5- Android 
-Smartphone Based Device Control.
-4. Connect a Jumper Wire between G29 to +ve (5V) Common Terminal on Breadboard.
-5. Open the Sketch for Voice-Controlled-Robot Program.
-6. Connect the USB cable with Arduino & Computer.
-7. Click on Upload Option to download the program in Arduino. Note: While 
-downloading the program please disconnect the Rx & Tx Jumper wire from Arduino 
-Board. Once you finish with the download then re connect the Rx & Tx Jumper Wire.
-8. Disconnect USB cable from Arduino & Connect 9V DC Battery to Arduino by using 
-battery connector.
-9. Run the AMR_Voice App in your Android Smartphone.
-10. App will ask you to enable the Bluetooth. Allow It.
-11. Search for your Bluetooth Device HC-05-(Group No). Once Connected Red Led on 
-Bluetooth module will blink once per second instead of fast blinking.
-12. Then control the devices from your Voice Commands on AMR_Voice App.
-13. Voice Commands to be used: forward, backward, left, right, stop.
+1. Connect a Jumper Wire between G29 to +ve (5V) Common Terminal on Breadboard.
+2. Open the Sketch for Voice-Controlled-Robot Program.
+3. Connect the USB cable with Arduino & Computer.
+4. Click on Upload Option to download the program in Arduino. Note: While downloading the program please disconnect the Rx & Tx Jumper wire from Arduino Board. Once you finish with the download then re connect the Rx & Tx Jumper Wire.
+5. Disconnect USB cable from Arduino & Connect 9V DC Battery to Arduino by using battery connector.
+6. Run the AMR_Voice App in your Android Smartphone.
+7. App will ask you to enable the Bluetooth. Allow It.
+8. Search for your Bluetooth Device HC-05-(Group No). Once Connected Red Led on Bluetooth module will blink once per second instead of fast blinking.
+9. Then control the devices from your Voice Commands on AMR_Voice App.
+10. Voice Commands to be used: forward, backward, left, right, stop.
