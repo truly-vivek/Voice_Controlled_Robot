@@ -1,5 +1,5 @@
 # Voice Controlled Robot 
-Video -> [Click](https://www.linkedin.com/posts/vivek76_arduino-arduinoproject-voicecontrol-activity-7052732669050191872-CiJV?utm_source=share&utm_medium=member_desktop)
+Video -> [Click](https://www.linkedin.com/posts/vivek76_arduino-arduinoproject-voicecontrol-activity-7052732669050191872-ul1J?utm_source=share&utm_medium=member_desktop)
 ### Components Required:
   - Arduino UNO Board
   - Arduino USB Cable
